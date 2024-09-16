@@ -65,13 +65,11 @@ When you start the application, you will see a window with a dropdown menu to se
 - **Image Not Displaying**: Ensure that the image files are located in the `images` directory and named correctly.
 - **Amazon Links Not Working**: Verify that the URLs in the `amazon_seed_links` and `amazon_cure_links` dictionaries are correct.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
-For questions or feedback, please contact [your email or contact information].
+For questions or feedback, please contact [masarukaze041@gmail.com].
 
 ---
 
